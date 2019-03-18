@@ -1,0 +1,2 @@
+# JniDemo
+jni so serialport
